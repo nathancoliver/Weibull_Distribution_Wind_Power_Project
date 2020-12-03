@@ -1,6 +1,7 @@
 # Weibull_Distribution_Wind_Power_Project
 
 
+![image 11](/images/image11.png)
 ![image 1](/images/image1.png)
 ![image 1](/images/image2.png)
 ![image 1](/images/image3.png)
